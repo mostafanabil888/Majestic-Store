@@ -1,0 +1,41 @@
+.checkout {
+  padding: 3rem 0;
+}
+
+.checkout h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.checkout .card-box {
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.checkout .card-box img {
+  width: 100%;
+}
+
+.checkout .card-box .box-content {
+  position: absolute;
+  padding-left: 1rem;
+  top: 65%;
+}
+
+.checkout .card-box .box-content h3 {
+  color: #fffefe !important;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.checkout .card-box .box-content p {
+  color: whitesmoke !important;
+  font-weight: 500;
+}
+
+.checkout .card-box .box-content span {
+  color: #ffa15c !important;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=checkout.css.map */

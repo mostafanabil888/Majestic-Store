@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,YADQ,CACR,eAAe,CAAA;EACX,gBAAgB,EAAE,kBAAkB;EACpC,OAAO,EAAE,MAAM;CAYlB;;AAfL,AAIQ,YAJI,CACR,eAAe,CAGX,CAAC,CAAA;EACG,SAAS,EAAE,MAAM;CACpB;;AANT,AAOQ,YAPI,CACR,eAAe,CAMX,IAAI,CAAA;EACA,OAAO,EAAE,WAAW;EACpB,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,CAAC;EAChB,KAAK,EAAE,OAAO;EACd,gBAAgB,EAAE,OAAO;EACzB,YAAY,EAAE,OAAO;CACxB",
+    "sources": [
+        "formallooks.scss"
+    ],
+    "names": [],
+    "file": "formallooks.css"
+}

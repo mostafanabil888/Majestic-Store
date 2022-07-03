@@ -1,0 +1,38 @@
+.testmonials {
+  height: 100vh;
+  background-image: url(../../../public/assets/img/gallery/cta.png);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
+}
+
+.testmonials .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  background-color: black;
+  opacity: 0.8;
+}
+
+.testmonials .overlay .Carousel {
+  height: 100%;
+  width: 100%;
+}
+
+.testmonials .overlay .carousel-indicators {
+  display: none;
+}
+
+.testmonials .overlay .btn-box {
+  text-decoration: none;
+  margin-top: 100rem !important;
+}
+
+.testmonials .overlay .btn-box .icon {
+  margin-left: 1rem;
+}
+/*# sourceMappingURL=testmonials.css.map */

@@ -1,0 +1,33 @@
+.checkout {
+  padding: 3rem 0;
+  h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .card-box {
+    position: relative;
+    margin-bottom: 1rem;
+    img {
+      width: 100%;
+    }
+    .box-content {
+      position: absolute;
+      padding-left: 1rem;
+      top: 65%;
+      h3 {
+        color: #fffefe !important;
+        font-weight: 700;
+        font-size: 1.5rem;
+      }
+      p {
+        color: whitesmoke !important;
+        font-weight: 500;
+      }
+      span {
+        color: #ffa15c !important;
+        font-weight: 700;
+        font-size: 1.5rem;
+      }
+    }
+  }
+}

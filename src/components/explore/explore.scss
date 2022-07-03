@@ -1,0 +1,39 @@
+.explore {
+  padding: 2rem 0;
+  .expolore-contant {
+    background-color: #eeeeee !important;
+    padding: 1.5rem;
+    h4 {
+      color: #616161;
+    }
+    h1 {
+      margin: 1rem 0;
+      font-weight: 700;
+    }
+    p {
+      font-size: 1rem;
+    }
+    .btn {
+      padding: 0.5rem 3rem;
+      font-size: 1rem;
+      border-radius: 0;
+      color: #fffefe;
+      background-color: #212121;
+      border-color: #212121;
+    }
+  }
+  .img-box {
+    position: relative;
+    .link {
+      text-decoration: none;
+      position: absolute;
+      top: 85%;
+      left: 55%;
+      -webkit-transform: translate(-55%, -55%);
+      -ms-transform: translate(-55%, -55%);
+      transform: translate(-55%, -55%);
+      color: #fffefe;
+      font-weight: bold;
+    }
+  }
+}

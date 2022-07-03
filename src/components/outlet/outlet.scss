@@ -1,0 +1,39 @@
+.outlet-section{
+    // padding: 5rem 0;
+    .right-content{
+        position: relative;
+        .img-box{
+            img{
+                width: 100%;
+            }
+            .link{
+                position: absolute;
+                top: 85%;
+                left: 20%;
+                text-decoration: none;
+                font-size: 2rem;
+                font-weight: bold;
+                color: white;
+                word-spacing: 0.5rem;
+            }
+        }
+    }
+    .left-content{
+        .img-box{
+            position: relative;
+            img{
+                width: 100%;
+            }
+            .link{
+                text-decoration: none;
+                text-transform: capitalize;
+                font-size: 2rem;
+                font-weight: bold;
+                color: white;
+                position: absolute;
+                top: 20%;
+                left: 15%;
+            }
+        }
+    }
+}

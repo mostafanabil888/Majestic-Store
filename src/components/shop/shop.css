@@ -1,0 +1,46 @@
+.shop {
+  padding: 1rem 0 3rem 0;
+}
+
+.shop .shop-contant h1 {
+  margin: 1rem 0;
+  padding-bottom: 2rem;
+  line-height: 1.25;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+.shop .nav-tabs {
+  border: none;
+}
+
+.shop .nav-tabs .nav-link {
+  color: #424242;
+}
+
+.shop .nav-tabs .nav-link.active {
+  color: #424242;
+  border-bottom: 1px solid black;
+}
+
+.shop .shop-catogry .card {
+  border: none;
+}
+
+.shop .shop-catogry .card h3 {
+  font-weight: 700;
+}
+
+.shop .shop-catogry .card del {
+  font-weight: 600;
+  color: black;
+  margin: 0 1rem 0 1rem;
+  display: inline-block;
+}
+
+.shop .shop-catogry .card span {
+  margin-left: 1rem;
+  color: #fe7a15;
+  font-weight: bold;
+}
+/*# sourceMappingURL=shop.css.map */

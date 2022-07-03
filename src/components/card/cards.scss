@@ -1,0 +1,47 @@
+.flex-cards {
+  margin: 2rem 0;
+  .card {
+    padding-bottom: 3rem;
+    position: relative;
+    img {
+      width: 100%;
+    }
+    .card-contant {
+      padding: 0 2rem;
+      h3 {
+        margin: 2rem 0;
+      }
+      p {
+        color: #424242 !important;
+        font-size: 0.8rem;
+        margin-top: 1rem;
+      }
+      span {
+        font-size: 1.2rem;
+      }
+      .link {
+        text-decoration: none;
+        color: #424242 !important;
+        font-size: 1.2rem !important;
+      }
+      .img-details {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+        background-color: #fcfcfc !important;
+        img {
+          width: 60px;
+        }
+        span {
+          display: block;
+        }
+        .icons-box {
+          padding: 1rem;
+        }
+      }
+    }
+  }
+}

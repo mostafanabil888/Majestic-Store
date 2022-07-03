@@ -1,0 +1,36 @@
+.stories {
+  .right-box {
+    position: relative;
+    .men-content {
+      position: absolute;
+      top: 5%;
+      left: 10%;
+      -webkit-transform: translate(-5%, -10%);
+      -ms-transform: translate(-5%, -10%);
+      transform: translate(-5%, -10%);
+      display: block;
+      text-decoration: none;
+    }
+  }
+  .left-box {
+    position: relative;
+    .women-content {
+      position: absolute;
+      bottom: 5%;
+      left: 10%;
+      -webkit-transform: translate(-5%, -10%);
+      -ms-transform: translate(-5%, -10%);
+      transform: translate(-5%, -10%);
+      display: block;
+      text-decoration: none;
+    }
+  }
+  .link {
+    display: block;
+    word-spacing: 0.5rem;
+    text-decoration: none;
+    color: #212121;
+    font-size: 2.5rem;
+    font-weight: 900;
+  }
+}

@@ -1,0 +1,38 @@
+.outlet-section .right-content {
+  position: relative;
+}
+
+.outlet-section .right-content .img-box img {
+  width: 100%;
+}
+
+.outlet-section .right-content .img-box .link {
+  position: absolute;
+  top: 85%;
+  left: 20%;
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  word-spacing: 0.5rem;
+}
+
+.outlet-section .left-content .img-box {
+  position: relative;
+}
+
+.outlet-section .left-content .img-box img {
+  width: 100%;
+}
+
+.outlet-section .left-content .img-box .link {
+  text-decoration: none;
+  text-transform: capitalize;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  position: absolute;
+  top: 20%;
+  left: 15%;
+}
+/*# sourceMappingURL=outlet.css.map */
